@@ -1,25 +1,28 @@
 {
   "name": "retinfy.js",
-  "version": "1.0.0",
   "description": "Retinfy.js is a lightweight plugin that allows you to easily deploy high-resolution graphics in your site with minimal overhead and simple code.",
   "main": "retinfy.js",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/yonib05/retinfyjs.git"
-  },
+  "authors": [
+    "Jonathan Segev <jsegev01@gmail.com>"
+  ],
+  "license": "MIT",
   "keywords": [
     "retinfy.js",
     "retinfyjs",
     "retinfy",
     "retina",
-    "screen resolutions",
+    "screen",
+    "resolutions",
     "ppi",
     "dpi",
     "js"
   ],
-  "author": "Jonathan Segev <jsegev01@gmail.com>",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/yonib05/retnifyjs/issues"
-  }
+  "homepage": "https://github.com/yonib05/retinfyjs",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
 }

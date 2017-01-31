@@ -5,6 +5,16 @@ A javascript plugin to detect the users screen pixel screen density(for retina d
 ## Usage 
 
 
+
+### Package Managers
+
+```sh
+# Bower
+bower install --save retinfyjs
+```
+
+
+
 ### Basic Usage
 ```html
 <!-- Include Retinfy Library -->
